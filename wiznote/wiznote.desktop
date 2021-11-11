@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=WizNote
+Exec=/opt/wiznote/wiz.AppImage
+Terminal=false
+Type=Application
+Icon=/opt/wiznote/wiz.ico
+StartupWMClass=WizNote
+X-AppImage-Version=0.1.49
+Comment=WizNote is a powerful note-taking tool.
+Categories=Office;
