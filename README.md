@@ -6,3 +6,5 @@
 $ sudo chmod a+x wiz.sh
 $ sh wiz.sh
 ``````
+
+适用于所有 Linux 发行版
